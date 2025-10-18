@@ -108,5 +108,5 @@ img_array = np.expand_dims(img_array, axis=0)
 prediction = model.predict(img_array)
 print("Predicted Class:", np.argmax(prediction))
   ```
-##Conclusion
+## Conclusion
 This project successfully developed a highly accurate plant disease detection model using Transfer Learning with MobileNetV2. With 91.13% validation accuracy, the model is reliable and ready for integration into real-world applications to help farmers make informed decisions.

@@ -1,4 +1,4 @@
-# Plant Disease Detection Using Deep Learning
+# Leaf Disease Detection Using Machine Learning
 
 ## Project Overview
 This project focuses on developing a high-accuracy deep learning model for identifying **15 different classes of plant diseases** from leaf images. By automating plant disease detection, this solution helps farmers diagnose issues early, enabling timely treatment and reducing crop loss.  
